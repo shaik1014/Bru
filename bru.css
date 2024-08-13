@@ -1,0 +1,52 @@
+.main-group{
+  margin-top:625px;
+  position: fixed;
+  left:22.5%;
+  
+}
+
+.group2{
+  
+  display: flex;
+  justify-content: center;
+}
+
+
+.btn1{
+  height: 80px;
+  margin: 2.5px 2.5px;
+  width: 80px;
+  border-radius: 50%;
+  background:black;
+  color:white;
+  
+}
+
+.button{
+  margin-top: 710px;
+  position:fixed;
+  display: flex;
+  justify-content: center;
+  left:40.5%
+}
+
+#btn2{
+  display: none;
+}
+
+#btn3{
+  display: none;
+}
+#btn4{
+  display: none;
+}
+#btn5{
+  display: none;
+}
+
+#btn6{
+  display: none;
+}
+
+
+
